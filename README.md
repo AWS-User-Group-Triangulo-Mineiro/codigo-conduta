@@ -19,5 +19,5 @@ Não será tolerado:
 - Dependendo da gravidade, medidas incluem advertência, expulsão de eventos ou banimento permanente da comunidade.
 
 ## 5. Relato de Incidentes
-- Casos de conduta imprópria podem ser relatados anonimamente através de [formulário/e-mail seguro].
+- Casos de conduta imprópria podem ser relatados anonimamente através de [formulário](https://forms.gle/mjnx9YTjTpmFb4Ss5).
 - A comunidade se compromete a tratar todos os relatos com seriedade, confidencialidade e respeito.
